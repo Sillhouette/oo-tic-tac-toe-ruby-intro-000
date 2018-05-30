@@ -173,9 +173,9 @@ def play
   end
 
   if won?
-    puts "\nCongratulations #{winner}!"
+    puts "Congratulations #{winner}!"
   elsif draw?
-    puts "\nCat's Game!"
+    puts "Cat's Game!"
   end
 end
 
